@@ -19,7 +19,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/v/4.3.2/compone
 
 ## Version History
 
-* 2014-07009 v4.3.2r2 — renamed from simply "Foundation" to "Foundation-4"; this was the last/latest release of Foundation 4 before Zurb released Foudnation 5
+* 2014-07009 v4.3.3 — renamed from simply "Foundation" to "Foundation-4"; this was the last/latest release of Foundation 4 (4.3.2) before Zurb released Foudnation 5
 * 2013-09-25 v4.3.2 — new Foundation version 4.3.2 (lots of fixes); also restored logical load order of CSS and JS
 * 2013-07-27 v4.3.1 — new Foundation version 4.3.1 (bug fixes)
 * 2013-07-22 v4.3.0 — new Foundation version 4.3.0 (includes new Abide form validation plugin)

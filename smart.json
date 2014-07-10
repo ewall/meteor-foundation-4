@@ -3,7 +3,7 @@
   "description": "Foundation 4 by ZURB - the most advanced responsive framework in the world. http://foundation.zurb.com/",
   "homepage": "https://github.com/ewall/meteor-foundation-4",
   "author": "Eric Wallace <e@ewall.org> (http://ewall.org)",
-  "version": "4.3.2r2",
+  "version": "4.3.3",
   "git": "https://github.com/ewall/meteor-foundation-4.git",
   "packages": {}
 }
