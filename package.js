@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "Foundation by ZURB - an advanced responsive web framework"
+	summary: "Foundation 4 by ZURB - an advanced responsive web framework"
 });
 
 Package.on_use(function (api) {
