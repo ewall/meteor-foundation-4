@@ -1,5 +1,5 @@
 Package.describe({
-	name: "ewall:foundation-4"
+	name: "ewall:foundation-4",
 	summary: "Foundation 4 by ZURB - an advanced responsive web framework",
 	version: "4.3.4",
 	git: "https://github.com/ewall/meteor-foundation-4.git"
