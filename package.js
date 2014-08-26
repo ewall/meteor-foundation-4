@@ -1,8 +1,12 @@
 Package.describe({
-	summary: "Foundation 4 by ZURB - an advanced responsive web framework"
+	name: "ewall:foundation-4"
+	summary: "Foundation 4 by ZURB - an advanced responsive web framework",
+	version: "4.3.4",
+	git: "https://github.com/ewall/meteor-foundation-4.git"
 });
 
 Package.on_use(function (api) {
+	api.versionsFrom("METEOR@0.9.0");
 	api.use('jquery', 'client');
 
 	var path = Npm.require('path');
