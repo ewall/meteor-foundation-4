@@ -6,6 +6,8 @@
 
 > *This package is for folks who are not ready to update to Foundation 5.*
 
+> :warning: **DEPRECATED**: Zurb Foundation 4 was last updated in 2013. Please consider using Foundation 6.
+
 [Foundation](http://foundation.zurb.com/) is an advanced responsive web framework. It features a flexible grid useful for rapid prototyping and mobile-ready design, and the results are beautiful, readable web sites. Version 4 was built with "Mobile First" RWD, semantic-friendly markup, and all new JavaScript. (Note that version 4 no longer supports IE 7 & 8—so hopefully you don't have to either!)
 
 Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/v/4.3.2/components/kitchen-sink.html) to view all the elements in their native splendor. Or browse the [Case Studies](http://foundation.zurb.com/case-jacquelinewest.php) to see some sites which were built with Foundation and get ideas how it can be tweaked and customized to fit your style.
@@ -19,6 +21,7 @@ Checkout the [Kitchen Sink page](http://foundation.zurb.com/docs/v/4.3.2/compone
 
 ## Version History
 
+* 2021-10-18 v4.3.5 - add deprecation flag; still Zurb Foundation v4.3.2
 * 2014-08-26 v4.3.4 — updated package for Meteor 0.9.0; still Zurb Foundation v4.3.2
 * 2014-07-09 v4.3.3 — renamed from simply "Foundation" to "Foundation-4"; this was the last/latest release of Foundation 4 (4.3.2) before Zurb released Foudnation 5
 * 2013-09-25 v4.3.2 — new Foundation version 4.3.2 (lots of fixes); also restored logical load order of CSS and JS
